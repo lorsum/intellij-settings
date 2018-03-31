@@ -1,0 +1,91 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://test.hrstonline.com/svnserve/hrst_trg" />
+        <option value="https://test.hrstonline.com/svnserve/hrst_3.0" />
+        <option value="https://test.hrstonline.com/svnserve/hrst/trunk" />
+        <option value="https://test.hrstonline.com/svnserve/hrst_web" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://test.hrstonline.com/svnserve/hrst_trg" />
+        <option value="https://test.hrstonline.com/svnserve/hrst_3.0" />
+        <option value="https://test.hrstonline.com/svnserve/hrst/trunk" />
+        <option value="https://test.hrstonline.com/svnserve/hrst_web" />
+        <option value="http://test.hrstonline.com/svnserve/hrst_web" />
+        <option value="http://test.hrstonline.com/svnserve/hrst_3.0" />
+        <option value="http://test.hrstonline.com/svnserve/hrst/trunk" />
+      </list>
+    </option>
+  </component>
+  <component name="WebServicesPluginSettings" MemorySizeToLaunchVM="1028" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="3.0 PHP Unit" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" HIGHLIGHT_MODE="BY_WORD" />
+</application>
