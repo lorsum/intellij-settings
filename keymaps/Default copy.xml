@@ -35,7 +35,7 @@
   </action>
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="shift end" />
-    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
@@ -69,7 +69,6 @@
     <keyboard-shortcut first-keystroke="shift right" />
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
-  <action id="EditorTab" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt i" />
