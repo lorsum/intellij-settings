@@ -9,15 +9,13 @@
   </option>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-    <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
   </HTMLCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="250" />
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="RIGHT_MARGIN" value="300" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
