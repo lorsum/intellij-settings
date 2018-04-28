@@ -585,6 +585,11 @@
         <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="a5d14c" />
+      </value>
+    </option>
     <option name="PHP_VAR_VAR">
       <value>
         <option name="FOREGROUND" value="ee2ff" />
@@ -623,6 +628,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="eefdff" />
         <option name="BACKGROUND" value="3bab01" />
         <option name="ERROR_STRIPE_COLOR" value="d8d8d8" />
       </value>
