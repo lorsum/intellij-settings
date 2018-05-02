@@ -3,6 +3,6 @@
     <macro name="HRST_APP_HOME" value="E:/workspaces/hrst_3.0" />
     <macro name="HRST_TEST_HOME" value="E:/workspaces/hrst_3.0/testing" />
     <macro name="MAVEN_REPOSITORY" value="C:\Users\lorsu\.m2\repository" />
-    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.2\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.1\plugins\Kotlin\kotlinc" />
   </component>
 </application>
